@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - Collectable
+  - Spikes
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Obstacles
+  - BoundingBoxes
+  - PlayerHitboxes
+  - PlayerHurtboxes
+  - EnemyHitboxes
+  - EnemyHurtboxes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 153579361
+    locked: 0
+  - name: Middleground
+    uniqueID: 3812560007
+    locked: 0
+  - name: middlemiddle
+    uniqueID: 576950653
+    locked: 0
+  - name: Foreground
+    uniqueID: 1481360589
+    locked: 0
+  - name: ForegroundForeground
+    uniqueID: 3967795633
+    locked: 0
+  - name: Through
+    uniqueID: 3110601335
+    locked: 0
